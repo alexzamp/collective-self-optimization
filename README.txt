@@ -21,7 +21,9 @@ in Linux by changing appropriately the random number generator functions.
 ## Data
 The enclosed raw data refer to the Figures 3 and 5 of the manuscript and include 
 the final configurations used for the phase diagram of Fig.3 and the 14 particle
-trajectories used to construct Fig. 5.
+trajectories used to construct Fig. 5.  Each ".dat" file has 5 columns  
+representing: time step, x-coordinate, y-coordinate, total force projection in x,
+total force projection in y in a different row for each particle.
 
 ## Contact
 Any questions regarding the enclosed code and data should be addressed to:
