@@ -2,7 +2,7 @@ This is a repository containing the relevant simulation code and data for our ma
 "Collective self-optimization of communicating active particles",
 by A. Zampetaki, B. Liebchen, A. V. Ivlev and H. Löwen.
 
-This code is  is made available under the GPL license. Over and above the legal restrictions imposed by this license, if you use any of the contents for academic research then you are obliged to provide proper attribution to the related paper:
+The codes are  © A. Zampetaki, 2021 and  are made available under the GPL license. Over and above the legal restrictions imposed by this license, if you use any of the contents for academic research then you are obliged to provide proper attribution to the related paper:
 
 A. V. Zampetaki, B. Liebchen, A. V. Ivlev and H. Löwen, 
 "Collective self-optimization of communicating active particles", 
